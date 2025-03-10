@@ -67,3 +67,12 @@ testMakeRandomBoardNormal	Custom board creation with defined count
 testMakeRandomBoardError	Error handling for excess snakes/ladders
 testAssignmentOperatorNormal	Deep copy by assignment
 testAssignmentOperatorEdge	Assign empty game over existing board
+
+Skills & Concepts Demonstrated
+Data structures: Linked lists, graph-like connections (snakes & ladders).
+Object-Oriented Programming (OOP) in C++.
+Memory management: Dynamic allocation, deep copying, destructors.
+Random generation for game elements.
+Game logic implementation.
+Testing framework for verification and validation.
+
